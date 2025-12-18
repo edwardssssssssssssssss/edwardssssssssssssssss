@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/raphael-edward-h-4a59ba282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael-edward-h-4a59ba282" height="30" width="40" /></a>
 <a href="https://instagram.com/r_edwardddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_edwardddd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Wardsssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Wardsssss" height="30" width="40" /></a>
+<a href="https://www.youtube.com/Wardsssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Wardsssss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
