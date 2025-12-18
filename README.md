@@ -3,8 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Web+Developer;Audio+Engineer;Guitarist;Photographer" alt="Typing SVG" />
 </div>
-<h3 align="center">A Man who have high enthusiasm and a desire to learn from Indonesia</h3>
-
+<h3 align="center">"When people doubt your abilities, the greatest pleasure in the world is to make them eat their words" – Zacky Vengeance</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardssssssssssssssss&label=Profile%20views&color=0e75b6&style=flat" alt="edwardssssssssssssssss" /> </p>
 
 - Osis Anugerah Abadi Web Developer [Osis News Website](https://osisanugerahabadi.vercel.app/)
