@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardssssssssssssssss&label=Profile%20views&color=0e75b6&style=flat" alt="edwardssssssssssssssss" /> </p>
 
 - Osis Anugerah Abadi Web Developer [Osis News Website](https://osisanugerahabadi.vercel.app/)
+- Wardssss Profile Link [Website For Put Sosial Media Link=](https://osisanugerahabadi.vercel.app/](https://wardssss.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
